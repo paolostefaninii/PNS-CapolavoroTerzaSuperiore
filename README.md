@@ -1,4 +1,4 @@
-# Applicazione PNS 
+# Applicazione PNS - Capolavoro Terza Superiore
 La cartella zippata contiene il codice e i file per avviare l'applicazione.
 Breve guida:
 - Scaricare e unzippare la cartella **Capolavoro_Stefanini3Ai**
